@@ -1,0 +1,14 @@
+{
+  "name": "b2b-gtm-skills",
+  "owner": {
+    "name": "Matt Santos",
+    "url": "https://bomgrowth.com"
+  },
+  "plugins": [
+    {
+      "name": "b2b-gtm-skills",
+      "source": "./",
+      "description": "B2B go-to-market playbooks and skills: foundation, build, distribution and operate."
+    }
+  ]
+}
