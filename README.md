@@ -1,6 +1,6 @@
 # B2B GTM Skills
 
-A transportable go-to-market playbook for B2B companies, written as agent skills. Nineteen playbooks in the order a company meets them, 98 skills that each work on their own, and a marketing brain template that gives every skill the company's context. Every skill is a plain `SKILL.md` that Claude, Claude Code, Codex, Cursor or any agent on the Agent Skills spec can read, or that you can paste into any chat assistant.
+A transportable go-to-market playbook for B2B companies, written as agent skills. Nineteen playbooks in the order a company meets them, 99 skills that each work on their own, and a marketing brain template that gives every skill the company's context. Every skill is a plain `SKILL.md` that Claude, Claude Code, Codex, Cursor or any agent on the Agent Skills spec can read, or that you can paste into any chat assistant.
 
 Written by Matt Santos at BOM Growth from running these playbooks inside B2B companies, from first customers to a built-out marketing function. Free to use and share under the MIT license.
 
@@ -121,6 +121,7 @@ Stage: build. SOP: `playbooks/1-build/06-website-and-conversion/SOP.md`
 | [`homepage-rewrite`](skills/homepage-rewrite/SKILL.md) | play | Rewrite a B2B company's homepage and the few pages around it so the site says who it is for, what it replaces and why it is better in the first five seconds, and so every form and booking link lands in the CRM. |
 | [`landing-page-brief`](skills/landing-page-brief/SKILL.md) | play | Before any page is built or changed: "a landing page for", "the demo page isn't converting", "a page for the campaign", "the comparison page", "the pricing page copy", "rewrite the home page". |
 | [`leave-behind-page`](skills/leave-behind-page/SKILL.md) | play | For the one page a rep sends after a conversation: "the leave-behind", "what do we send after the demo", "a one-pager", "the page for the event follow-up", "something the champion can forward to their boss". |
+| [`website-to-code`](skills/website-to-code/SKILL.md) | play | Move a website off any legacy website tool into code, so it is managed by asking an AI agent in plain language, with search rankings kept and forms working. |
 
 ### 7. Sales enablement
 

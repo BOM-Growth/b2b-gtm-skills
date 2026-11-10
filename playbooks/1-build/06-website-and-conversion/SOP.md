@@ -43,3 +43,4 @@ Copy in a week. Build in one to three weeks depending on the builder. Then month
 | `landing-page-brief` | play | Before any page is built or changed: "a landing page for", "the demo page isn't converting", "a page for the campaign", "the comparison page", "the pricing page copy", "rewrite the home page". |
 | `leave-behind-page` | play | For the one page a rep sends after a conversation: "the leave-behind", "what do we send after the demo", "a one-pager", "the page for the event follow-up", "something the champion can forward to their boss". |
 | `graphics-check` | play | Before any image, social graphic, banner or one-pager ships: "is this on brand", "check the graphic", "resize for the other channels", "the screenshot is cut off", "can we generate an image for this". |
+| `website-to-code` | play | Move a website off any legacy website tool into code, so it is managed by asking an AI agent in plain language, with search rankings kept and forms working. |
