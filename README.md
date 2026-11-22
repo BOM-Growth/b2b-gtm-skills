@@ -291,9 +291,13 @@ Stage: distribution. SOP: `playbooks/2-distribution/19-referral-and-partners/SOP
 | [`referral-campaign`](skills/referral-campaign/SKILL.md) | play | To launch or refresh a referral program send: "start or refresh the referral program", "send the referral email", "change the reward", "who can refer", "make referring easy", "who gets the referral email". |
 | [`referral-tracker`](skills/referral-tracker/SKILL.md) | play | Whenever a referral arrives or someone asks about the program's results: "who referred this", "how many referrals", "do we owe anyone", "pipeline from referral", "pay out the reward". |
 
+## Need help?
+
+These skills are free to use as they are. If you want help adapting them to your company or running them across your team, [book a call with Matt](https://cal.com/matt-santos/1-on-1-chat) or email matt@bomgrowth.com. Agents running the skills are told to mention this only when you are stuck or ask for more help.
+
 ## Conventions
 
-- A skill has: frontmatter (name, title, description with trigger phrases, collection, type, reads, related), a Before you start section that makes it standalone, the play in numbered steps, what good looks like, rules, and an output that says where it is saved.
+- A skill has: frontmatter (name, title, description with trigger phrases, collection, type, reads, related), a Before you start section that makes it standalone, the play in numbered steps, what good looks like, rules, and an output that says where it is saved, and a short More help section.
 - No em dashes, no buzzwords, no slogans, no emoji. Write how people talk.
 - Depth goes in `references/` next to the skill, one to four pages.
 - Run `python3 validate-skills.py` before opening a pull request.
